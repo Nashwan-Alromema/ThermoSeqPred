@@ -26,7 +26,7 @@ Sharaf Jameel Malebary , Hamza Shahab Awan, Anas Saleh Alkarim, Nashwan Alromema
 
 
 #Availability
-The processed dataset and pre-trained models will be made available upon request. Contact: Hamza Shahab Awan (hamzashahabawan@gmail.com / sp24-pcs-006@cuilahore.edu.pk).
+The processed dataset and pre-trained models will be made available upon request. Contact via email ( sp24-pcs-006@cuilahore.edu.pk).
 
 
 Recommended splits: stratified train/validation/test (e.g., 70/15/15) with non-redundant sequences across sets (remove high identity using CD-HIT or MMseqs2 at 30–40% identity to avoid homology bias).
