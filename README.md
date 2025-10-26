@@ -7,7 +7,7 @@ Thermophilic proteins are proteins that remain stable and functional at high tem
 #Dataset
 Primary sources: Uniprot/SwissProt, Thermophile-specific databases.
 Labels: thermophilic proteins (binary) by experimentally-determined optimum temperature or organism growth temperature. Optionally multi-class (e.g., psychrophilic / mesophilic / thermophilic).
-Availability: The dataset is currently available upon request. Please contact Hamza Shahab Awan (hamzashahabawan@gmail.com / sp24-pcs-006@cuilahore.edu.pk) for access.
+Availability: The dataset is currently available upon request. Please contact us (sp24-pcs-006@cuilahore.edu.pk) for access.
 
 #Feature engineering
 We implement multiple feature sets so you can compare which signals carry thermophilicity information. Specifically, we utilize a 153-dimensional genomic/protein-derived feature representation that captures rich statistical, positional, and physicochemical information:
@@ -21,7 +21,8 @@ RAAPIV (Reverse Accumulative Absolute Position Incidence Vector)
 Hahn Moments
 These engineered descriptors, combined with sequence- and structure-based representations, enable robust supervised learning and provide interpretable insights into thermophilic vs non-thermophilic protein discrimination.
 
-Authors:
+Authors: 
+Sharaf Jameel Malebary , Hamza Shahab Awan, Anas Saleh Alkarim, Nashwan Alromema, Yaser Daanial Khan
 
 
 #Availability
